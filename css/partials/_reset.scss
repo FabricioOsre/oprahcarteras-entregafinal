@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box;*/
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    background-color:$mainColor;
+}
+a{
+    text-decoration: none;
+}
+.btn-outline-success {
+    --bs-btn-color: #c0b181;
+    --bs-btn-border-color: #968167;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #a3a073;
+    --bs-btn-hover-border-color: #bab48a;
+    --bs-btn-focus-shadow-rgb: 25,135,84;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #d2c7a4;
+    --bs-btn-active-border-color: #ccc4a9;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #b1b087;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #d2c88b;
+    --bs-gradient: none;
+}
