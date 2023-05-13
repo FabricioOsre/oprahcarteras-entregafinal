@@ -1,0 +1,11 @@
+Link de entrega final 000webhostapp
+
+https://oprah-carteras.000webhostapp.com/index.html
+
+Link de entrega final de Github pages
+
+https://fabricioosre.github.io/oprahcarteras-entregafinal/
+
+Link del repositorio completo de Github
+
+https://github.com/FabricioOsre/oprahcarteras-entregafinal.git
